@@ -1,8 +1,11 @@
 # 👋 Hello, I'm Ndagua
 
-<table border="0">
-<tr>
-<td width="60%" valign="middle">
+<img
+  width="355"
+  align="right"
+  src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+  alt="Coding animation"
+/>
 
 ### 💻 Developer Fullstack
 
@@ -11,30 +14,23 @@
 - 🌱 Always learning and improving my skills.
 - 🎯 Focused on becoming a better Fullstack Developer.
 
+<br clear="right"/>
+
+---
+
 ### 🛠️ Technologies & Tools
 
 **Programming Languages**
 
 <p>
-<img  width="355"
-      align="right"
-      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,php" />
 </p>
 
-**Database & Tools**
+**Database & Development Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 </p>
-
-</td>
-<td width="40%" valign="middle">
-
-<img src="https://illustrations.popsy.co/blue/remote-work.svg" width="100%" alt="Developer working at a computer"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -45,25 +41,10 @@
 - 🗄️ Database Design and SQL
 - ⚡ Building real-world projects
 
+---
+
 ### 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ndagua&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagua&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="42%" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p>
-<a href="https://github.com/ndagua">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center">
-<i>「Code. Learn. Build. Repeat.」</i>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndagua&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title
