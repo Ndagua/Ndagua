@@ -16,7 +16,9 @@
 **Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,php" />
+<img  width="355"
+      align="right"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
 </p>
 
 **Database & Tools**
